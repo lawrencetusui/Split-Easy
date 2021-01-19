@@ -1,7 +1,5 @@
 # iOS-App-SwiftUI-Split-Easy
 
-[![Swift Version][swift-image]][swift-url]
-
 
 # Split Easy
 <br />
@@ -12,8 +10,9 @@
   </p>
 </p>
 
-<p align="row">
-<img src= "https://youtu.be/IhAEB7IHdWU" width="400" >
+<p align="center" >
+https://youtu.be/IhAEB7IHdWU
+
 </p>
 
 ## Features
